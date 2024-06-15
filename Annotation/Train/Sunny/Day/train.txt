@@ -1,0 +1,651 @@
+data/obj_train_data/Sunny-day/Sunny-Day (1).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (10).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (100).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (103).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (104).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (105).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (106).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (11).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (117).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (118).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (119).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (12).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (120).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (121).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (122).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (123).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (124).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (125).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (126).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (127).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (128).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (129).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (13).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (130).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (131).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (132).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (133).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (134).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (135).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (136).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (137).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (138).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (139).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (14).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (140).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (141).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (142).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (143).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (144).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (145).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (147).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (148).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (149).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (15).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (150).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (151).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (152).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (153).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (154).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (155).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (156).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (157).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (158).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (159).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (16).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (160).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (161).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (162).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (163).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (164).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (165).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (166).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (167).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (168).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (169).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (17).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (170).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (171).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (173).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (174).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (175).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (176).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (177).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (179).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (18).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (180).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (181).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (182).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (184).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (185).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (186).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (187).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (188).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (189).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (19).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (190).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (191).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (192).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (193).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (194).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (195).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (196).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (197).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (198).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (199).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (2).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (20).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (200).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (202).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (203).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (204).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (21).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (213).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (215).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (216).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (217).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (219).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (22).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (220).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (221).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (222).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (224).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (229).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (23).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (230).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (231).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (232).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (233).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (234).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (236).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (237).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (24).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (240).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (244).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (246).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (248).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (25).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (250).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (254).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (258).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (26).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (260).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (261).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (263).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (268).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (27).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (270).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (272).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (273).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (277).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (279).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (28).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (280).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (281).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (284).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (285).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (287).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (288).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (29).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (290).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (291).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (293).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (294).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (296).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (3).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (30).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (300).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (301).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (303).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (304).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (305).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (306).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (307).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (31).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (310).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (311).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (314).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (316).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (318).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (319).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (32).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (320).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (323).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (324).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (327).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (329).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (33).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (330).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (332).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (333).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (336).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (337).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (34).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (342).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (344).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (347).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (349).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (35).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (350).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (351).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (352).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (353).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (354).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (355).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (356).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (357).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (358).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (359).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (36).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (360).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (361).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (362).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (363).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (364).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (365).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (366).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (367).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (368).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (369).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (37).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (370).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (371).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (372).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (373).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (374).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (376).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (378).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (379).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (38).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (380).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (381).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (382).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (384).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (385).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (386).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (387).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (388).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (39).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (390).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (391).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (392).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (393).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (394).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (395).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (396).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (397).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (398).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (399).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (4).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (40).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (400).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (401).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (402).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (403).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (404).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (405).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (406).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (407).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (408).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (41).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (410).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (412).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (413).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (414).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (416).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (417).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (419).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (422).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (423).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (424).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (425).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (426).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (427).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (428).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (429).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (43).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (431).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (432).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (433).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (434).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (435).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (436).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (437).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (439).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (44).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (440).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (443).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (444).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (445).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (447).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (45).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (450).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (451).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (452).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (453).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (454).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (456).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (457).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (458).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (459).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (46).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (463).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (464).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (466).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (467).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (468).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (47).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (470).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (471).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (472).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (473).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (474).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (476).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (477).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (478).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (479).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (48).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (480).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (481).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (482).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (483).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (484).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (485).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (486).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (487).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (488).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (489).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (49).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (490).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (491).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (493).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (494).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (495).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (496).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (497).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (498).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (499).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (5).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (50).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (500).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (501).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (503).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (504).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (505).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (506).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (507).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (508).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (509).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (51).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (510).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (511).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (512).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (513).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (514).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (515).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (516).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (517).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (519).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (52).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (520).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (521).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (522).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (523).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (524).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (525).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (527).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (528).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (529).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (53).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (530).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (531).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (532).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (533).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (534).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (535).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (536).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (537).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (538).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (539).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (54).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (540).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (541).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (542).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (543).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (544).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (545).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (546).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (547).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (548).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (549).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (55).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (551).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (552).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (554).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (555).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (556).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (560).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (562).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (566).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (567).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (57).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (570).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (571).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (574).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (575).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (576).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (578).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (579).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (58).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (580).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (582).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (584).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (585).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (586).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (588).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (591).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (593).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (594).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (595).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (596).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (599).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (6).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (60).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (600).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (601).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (602).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (603).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (604).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (605).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (606).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (607).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (608).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (61).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (610).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (612).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (613).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (614).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (615).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (616).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (617).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (618).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (619).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (62).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (620).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (621).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (622).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (623).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (624).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (625).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (626).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (627).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (628).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (629).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (63).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (630).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (631).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (632).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (634).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (635).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (636).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (637).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (638).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (639).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (64).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (640).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (641).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (643).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (644).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (646).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (647).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (649).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (65).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (650).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (651).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (652).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (653).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (654).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (655).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (656).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (657).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (658).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (659).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (66).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (660).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (661).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (664).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (665).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (666).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (667).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (668).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (669).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (67).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (670).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (671).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (675).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (677).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (678).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (679).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (68).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (680).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (681).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (682).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (683).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (684).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (686).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (687).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (689).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (69).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (690).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (7).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (70).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (71).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (72).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (74).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (75).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (77).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (78).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (79).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (8).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (80).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (81).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (85).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (86).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (87).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (88).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (89).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (9).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (90).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (93).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (94).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (95).jpg
+data/obj_train_data/Sunny-day/Sunny-Day (96).jpg
+data/obj_train_data/TrainImages/Sunny-Day(691).jpg
+data/obj_train_data/TrainImages/Sunny-Day(692).jpg
+data/obj_train_data/TrainImages/Sunny-Day(693).jpg
+data/obj_train_data/TrainImages/Sunny-Day(694).jpg
+data/obj_train_data/TrainImages/Sunny-Day(695).jpg
+data/obj_train_data/TrainImages/Sunny-Day(696).jpg
+data/obj_train_data/TrainImages/Sunny-Day(697).jpg
+data/obj_train_data/TrainImages/Sunny-Day(698).jpg
+data/obj_train_data/TrainImages/Sunny-Day(699).jpg
+data/obj_train_data/TrainImages/Sunny-Day(700).jpg
+data/obj_train_data/TrainImages/Sunny-Day(701).jpg
+data/obj_train_data/TrainImages/Sunny-Day(702).jpg
+data/obj_train_data/TrainImages/Sunny-Day(703).jpg
+data/obj_train_data/TrainImages/Sunny-Day(704).jpg
+data/obj_train_data/TrainImages/Sunny-Day(705).jpg
+data/obj_train_data/TrainImages/Sunny-Day(706).jpg
+data/obj_train_data/TrainImages/Sunny-Day(707).jpg
+data/obj_train_data/TrainImages/Sunny-Day(708).jpg
+data/obj_train_data/TrainImages/Sunny-Day(709).jpg
+data/obj_train_data/TrainImages/Sunny-Day(710).jpg
+data/obj_train_data/TrainImages/Sunny-Day(711).jpg
+data/obj_train_data/TrainImages/Sunny-Day(712).jpg
+data/obj_train_data/TrainImages/Sunny-Day(713).jpg
+data/obj_train_data/TrainImages/Sunny-Day(714).jpg
+data/obj_train_data/TrainImages/Sunny-Day(715).jpg
+data/obj_train_data/TrainImages/Sunny-Day(716).jpg
+data/obj_train_data/TrainImages/Sunny-Day(717).jpg
+data/obj_train_data/TrainImages/Sunny-Day(718).jpg
+data/obj_train_data/TrainImages/Sunny-Day(719).jpg
+data/obj_train_data/TrainImages/Sunny-Day(720).jpg
+data/obj_train_data/TrainImages/Sunny-Day(721).jpg
+data/obj_train_data/TrainImages/Sunny-Day(722).jpg
+data/obj_train_data/TrainImages/Sunny-Day(723).jpg
+data/obj_train_data/TrainImages/Sunny-Day(724).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(725).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(726).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(727).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(728).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(729).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(730).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(731).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(732).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(733).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(734).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(735).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(736).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(737).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(738).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(739).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(740).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(741).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(742).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(743).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(744).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(745).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(746).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(747).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(748).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(749).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(750).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(751).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(752).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(753).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(754).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(755).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(756).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(757).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(758).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(759).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(760).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(761).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(762).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(763).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(764).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(765).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(766).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(767).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(768).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(769).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(770).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(771).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(772).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(773).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(774).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(775).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(776).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(777).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(778).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(779).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(780).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(781).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(782).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(783).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(784).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(785).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(786).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(787).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(788).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(789).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(790).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(791).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(792).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(793).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(794).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(795).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(796).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(797).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(798).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(799).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(800).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(801).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(802).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(803).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(804).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(805).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(806).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(807).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(808).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(809).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(810).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(811).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(812).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(813).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(814).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(815).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(816).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(817).jpeg
+data/obj_train_data/TrainImages/Sunny-Day(818).jpeg
+
